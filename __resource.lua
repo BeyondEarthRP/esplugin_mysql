@@ -10,7 +10,6 @@ migration_files {
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
-	'@fxmigrant/helper.lua',
 	'server.lua'
 }
 
